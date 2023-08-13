@@ -1,5 +1,8 @@
 # geoptolomy
 geoguessr program
+Contact me on discord: Ladol
+for the copyextension.rar download
+
 1. Extract contents of copyextension.rar to a folder
 2. In your browser, go to chrome://extensions (or manage extensions)
 3. Enable developer mode
